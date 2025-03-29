@@ -1,0 +1,27 @@
+.section-two {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 2rem 1rem;
+    gap: 2rem;
+    align-items: center;
+  }
+  
+  .image-container {
+    flex: 1;
+    min-width: 300px;
+  }
+  
+  .image-container img {
+    width: 100%;
+    border-radius: 4px;
+  }
+  
+  .text-container {
+    flex: 1;
+    min-width: 300px;
+  }
+  
+  .text-container h2 {
+    margin-bottom: 1rem;
+  }
+  

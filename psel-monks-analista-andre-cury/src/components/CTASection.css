@@ -1,0 +1,22 @@
+.cta-section {
+    background-color: #7e57c2;
+    color: #fff;
+    padding: 2rem 1rem;
+    text-align: center;
+  }
+  
+  .cta-content h2 {
+    font-size: 1.8rem;
+    margin-bottom: 0.5rem;
+  }
+  
+  .cta-content p {
+    margin-bottom: 1.5rem;
+  }
+  
+  .store-buttons img {
+    width: 150px;
+    margin: 0 0.5rem;
+    cursor: pointer;
+  }
+  

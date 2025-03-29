@@ -1,0 +1,40 @@
+.section-one {
+    padding: 2rem 1rem;
+    text-align: center;
+  }
+  
+  .section-one h2 {
+    font-size: 1.8rem;
+    margin-bottom: 0.5rem;
+  }
+  
+  .section-one p {
+    max-width: 600px;
+    margin: 0 auto 2rem auto;
+  }
+  
+  .cards-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 1rem;
+  }
+  
+  .card {
+    background-color: #fff;
+    border-radius: 4px;
+    width: 300px;
+    box-shadow: 0 0 5px rgba(0,0,0,0.1);
+    padding: 1rem;
+    text-align: left;
+  }
+  
+  .card img {
+    width: 100%;
+    border-radius: 4px;
+  }
+  
+  .card h3 {
+    margin: 0.75rem 0;
+  }
+  
